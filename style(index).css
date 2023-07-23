@@ -2,7 +2,7 @@ body{
     margin: 0;
     font-family: 'Anonymous Pro', monospace;
     background-color: #111;
-    background-image: url(images/polygon-scatter-haikei.png);
+    background-image: url(polygon-scatter-haikei.png);
     
     display: flex;
     min-height: 100vh;
