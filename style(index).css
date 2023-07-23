@@ -3,7 +3,6 @@ body{
     font-family: 'Anonymous Pro', monospace;
     background-color: #111;
     background-image: url(polygon-scatter-haikei.png);
-    
     display: flex;
     min-height: 100vh;
     justify-content: center;
@@ -12,12 +11,21 @@ body{
 
 }
 #left{
-    height: 280px;
+    width: 45em;
+    max-width:100%;
+    height:auto;
+    color: #1f1f1f;
+    display: flex;
+    background: #111;
+    margin: 2em 0;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
 }
+
 
 *{
     box-sizing: border-box;
 }
+
 p,small{
     color: #8f8f8f;
 }
@@ -33,6 +41,8 @@ h1{
 
 .skewed{
     width: 45em;
+    max-width:100%;
+    height:auto;
     color: #1f1f1f;
     display: flex;
     background: #111;
