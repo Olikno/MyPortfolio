@@ -16,7 +16,7 @@ body{
     height:auto;
     color: #1f1f1f;
     display: flex;
-    background: #111;
+    background: #111111d0;
     margin: 2em 0;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
 }
