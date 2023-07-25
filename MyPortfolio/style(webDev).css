@@ -1,0 +1,25 @@
+body{
+    background-color: #111111;
+    color: #8f8f8f;
+}
+iframe{
+    width: 200vh;
+    height: 100vh;
+    max-width: 100%;
+    border: none;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #a80000;
+}
+a{
+    text-decoration: underline;
+    color: #a80000;
+}
+.description{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: column;
+    font-family: 'Anonymous Pro';
+}
